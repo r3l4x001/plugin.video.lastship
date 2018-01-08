@@ -1,4 +1,4 @@
-Nightly
+[B]2.0.1[/B]
 - Serienstream hinzugefügt, Fix Login Problem
 
 [B]2.0.0[/B]
