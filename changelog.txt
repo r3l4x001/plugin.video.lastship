@@ -1,3 +1,6 @@
+Nightly
+- Serienstream hinzugefügt, Fix Login Problem
+
 [B]2.0.0[/B]
 - Aufteilung von plugin.video.lastship in 2 Module:
   script.module.lastship
