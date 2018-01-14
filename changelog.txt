@@ -1,3 +1,6 @@
+[B]2.0.2~nightly[/B]
+- Add News und Updates Anzeige
+
 [B]2.0.1[/B]
 - Serienstream hinzugefügt, Fix Login Problem
 
