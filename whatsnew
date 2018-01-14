@@ -4,8 +4,6 @@
 
 Aktuell gibt es ein Problem bei den Artworks, mit trakt. Es werden manche Icons mit dem Lastship Standard Icon angezeigt und nicht das richtige Artwork
 An einer Lösung wird gearbeitet
-
-
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR]
 
 [B][COLOR green]Changelog plugin.video.lastship[/COLOR][/B]
@@ -13,13 +11,14 @@ An einer Lösung wird gearbeitet
 [B]2.0.1[/B]
 - Serienstream hinzugefügt, Fix Login Problem
 
+
 [B]2.0.0[/B]
 - Aufteilung von plugin.video.lastship in 2 Module:
   script.module.lastship
   plugin.video.lasthip
 - settings Anpassung an die neue Aufteilung
 - string.po Anpassung (alles im/ab 32700 Kreis ist Lastship spezifisch)
-  
+ 
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR] 
   
 [B][COLOR green]Changelog script.module.lastship[/COLOR][/B]
@@ -28,15 +27,18 @@ An einer Lösung wird gearbeitet
 - Add Option Flashx Captcha Pairing Abfrage zu deaktivieren
 - Anzeige von News und Updates in Lastship
 
+
 [B]1.0.2[/B]
 - Fix login Problem Serienstream
 - client.py optimiert
 - Update library.py
 
+
 [B]1.0.1[/B]
 - cfscraper Update
 - hdstreams update
 - video4k entfernt (Weiterleitung auf cine.to)
+
 
 [B]1.0.0[/B]
 - Aufteilung von plugin.video.lastship in 2 Module:
