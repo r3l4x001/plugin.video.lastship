@@ -5,7 +5,7 @@ Aktuell gibt es ein Problem bei den Artworks, mit trakt. Es werden manche Icons 
 An einer Lösung wird gearbeitet
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR]
 
-[B][COLOR green]Changelog plugin.video.lastship[/COLOR][/B]
+[B][COLOR lime]Changelog plugin.video.lastship[/COLOR][/B]
 
 [B]2.0.1[/B]
 - Serienstream hinzugefügt, Fix Login Problem
@@ -20,7 +20,7 @@ An einer Lösung wird gearbeitet
  
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR] 
   
-[B][COLOR green]Changelog script.module.lastship[/COLOR][/B]
+[B][COLOR lime]Changelog script.module.lastship[/COLOR][/B]
   
 [B]1.0.3~nightly1[/B]
 - Add Option Flashx Captcha Pairing Abfrage zu deaktivieren
