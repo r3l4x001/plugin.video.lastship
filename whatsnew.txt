@@ -7,9 +7,14 @@ FAQ und Hilfe bekommt Ihr in unserem Forum: http://lastship.square7.ch/forum
 
 [B][COLOR lime]Changelog plugin.video.lastship[/COLOR][/B]
 
+[B]2.0.2.1[/B]
+- Bugfix whatsnew
+
+
 [B]2.0.2[/B]
 - Anzeige von News und Updates
 - Update TMDb Key
+
 
 [B]2.0.1[/B]
 - Serienstream hinzugefügt, Fix Login Problem
@@ -25,6 +30,10 @@ FAQ und Hilfe bekommt Ihr in unserem Forum: http://lastship.square7.ch/forum
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR] 
   
 [B][COLOR lime]Changelog script.module.lastship[/COLOR][/B]
+
+[B]1.0.3.1[/B]
+- Bugfix whatsnew
+  
   
 [B]1.0.3[/B]
 - Add Option Flashx Captcha Pairing Abfrage zu deaktivieren
