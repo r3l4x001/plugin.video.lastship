@@ -7,7 +7,7 @@ FAQ und Hilfe bekommt Ihr in unserem Forum: http://lastship.square7.ch/forum
 
 [B][COLOR lime]Changelog plugin.video.lastship[/COLOR][/B]
 
-[B]2.0.2~nightly2[/B]
+[B]2.0.2[/B]
 - Anzeige von News und Updates
 - Update TMDb Key
 
@@ -26,7 +26,7 @@ FAQ und Hilfe bekommt Ihr in unserem Forum: http://lastship.square7.ch/forum
   
 [B][COLOR lime]Changelog script.module.lastship[/COLOR][/B]
   
-[B]1.0.3~nightly1[/B]
+[B]1.0.3[/B]
 - Add Option Flashx Captcha Pairing Abfrage zu deaktivieren
 - Update navigator.py, Anzeige von News und Updates in Lastship
 
