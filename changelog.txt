@@ -1,4 +1,4 @@
-[B]2.0.2~nightly2[/B]
+[B]2.0.2[/B]
 - Add News und Updates Anzeige
 - Update TMDB Key
 
