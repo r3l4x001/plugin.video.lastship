@@ -7,6 +7,9 @@ An einer Lösung wird gearbeitet
 
 [B][COLOR lime]Changelog plugin.video.lastship[/COLOR][/B]
 
+[B]2.0.2~nightly[/B]
+- Anzeige von News und Updates
+
 [B]2.0.1[/B]
 - Serienstream hinzugefügt, Fix Login Problem
 
@@ -24,7 +27,7 @@ An einer Lösung wird gearbeitet
   
 [B]1.0.3~nightly1[/B]
 - Add Option Flashx Captcha Pairing Abfrage zu deaktivieren
-- Anzeige von News und Updates in Lastship
+- Update navigator.py, Anzeige von News und Updates in Lastship
 
 
 [B]1.0.2[/B]
