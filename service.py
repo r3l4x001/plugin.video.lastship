@@ -37,18 +37,18 @@ def syncTraktLibrary():
 try:
     ModuleVersion = control.addon('script.module.lastship').getAddonInfo('version')
     AddonVersion = control.addon('plugin.video.lastship').getAddonInfo('version')
-    #RepoVersion = control.addon('repository.colossus').getAddonInfo('version')
+    #RepoVersion = control.addon('repository.lastship').getAddonInfo('version')
 
-    log_utils.log('######################### LASTSHIP ############################', log_utils.LOGNOTICE)
-    log_utils.log('####### CURRENT LASTSHIP VERSIONS REPORT ######################', log_utils.LOGNOTICE)
-    log_utils.log('### LASTSHIP PLUGIN VERSION: %s ###' % str(AddonVersion), log_utils.LOGNOTICE)
-    log_utils.log('### LASTSHIP SCRIPT VERSION: %s ###' % str(ModuleVersion), log_utils.LOGNOTICE)
-    #log_utils.log('### LASTSHIP REPOSITORY VERSION: %s ###' % str(RepoVersion), log_utils.LOGNOTICE)
+    log_utils.log('######################### lastship ############################', log_utils.LOGNOTICE)
+    log_utils.log('####### CURRENT lastship VERSIONS REPORT ######################', log_utils.LOGNOTICE)
+    log_utils.log('### lastship PLUGIN VERSION: %s ###' % str(AddonVersion), log_utils.LOGNOTICE)
+    log_utils.log('### lastship SCRIPT VERSION: %s ###' % str(ModuleVersion), log_utils.LOGNOTICE)
+    #log_utils.log('### lastship REPOSITORY VERSION: %s ###' % str(RepoVersion), log_utils.LOGNOTICE)
     log_utils.log('###############################################################', log_utils.LOGNOTICE)
 except:
-    log_utils.log('######################### LASTSHIP ############################', log_utils.LOGNOTICE)
-    log_utils.log('####### CURRENT LASTSHIP VERSIONS REPORT ######################', log_utils.LOGNOTICE)
-    log_utils.log('### ERROR GETTING LASTSHIP VERSIONS - NO HELP WILL BE GIVEN AS THIS IS NOT AN OFFICIAL LASTSHIP INSTALL. ###', log_utils.LOGNOTICE)
+    log_utils.log('######################### lastship ############################', log_utils.LOGNOTICE)
+    log_utils.log('####### CURRENT lastship VERSIONS REPORT ######################', log_utils.LOGNOTICE)
+    log_utils.log('### ERROR GETTING lastship VERSIONS - NO HELP WILL BE GIVEN AS THIS IS NOT AN OFFICIAL LASTSHIP INSTALL. ###', log_utils.LOGNOTICE)
     log_utils.log('###############################################################', log_utils.LOGNOTICE)
 
 if control.setting('autoTraktOnStart') == 'true':
