@@ -1,4 +1,4 @@
-[COLOR red]Lastship Infos und Updates[/COLOR]
+[B][COLOR red]Lastship Infos und Updates[/COLOR][/B]
 [B]Hier findet Ihr aktuelle Informationen zu Lastship, den Changelog usw.[/B]
 
 FAQ und Hilfe bekommt Ihr in unserem Forum: http://lastship.square7.ch/forum
@@ -9,6 +9,7 @@ Für die Seiten Serienstream, Seriesever und Alluc ist ein Benutzerkonto auf der
 
 [B][COLOR blue]Aktuelles[/COLOR][/B]
 Probleme mit HDFilme, HDStreams und Foxx
+Für erfahrene User: Es gibt eine neu ~nightly Test Version (script.module.lastship und plugin.video.lastship
 
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR]
 
