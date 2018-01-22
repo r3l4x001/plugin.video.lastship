@@ -971,3 +971,7 @@ msgstr "Bis"
 msgctxt "#32704"
 msgid "LOCAL FILES (LIBRARY)"
 msgstr "LOKALE DATEIEN (BIBLIOTHEK)"
+
+msgctxt "#32705"
+msgid "Auto Updating Trakt Library"
+msgstr "Trakt Bibliothek automatisch aktualisieren" 

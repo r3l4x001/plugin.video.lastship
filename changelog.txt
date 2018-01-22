@@ -1,10 +1,18 @@
+[B]2.0.3~nigtly5[/B]
+- Add Trakt Collections AutoSync
+	- lastship
+	- service
+	- settings
+	- string.po
+- Update Settings (Trakt Sync Begriffe in deutsch umbenannt)
+
 [B]2.0.2.1[/B]
 -Bugfix whatsnew
 
 [B]2.0.2[/B]
 - Add News und Updates Anzeige
-- Update TMDB Key
-
+- Update TMDB Key	
+	
 [B]2.0.1[/B]
 - Serienstream hinzugefügt, Fix Login Problem
 

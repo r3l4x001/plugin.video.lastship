@@ -966,3 +966,7 @@ msgstr ""
 msgctxt "#32704"
 msgid "LOCAL FILES (LIBRARY)"
 msgstr ""
+
+msgctxt "#32705"
+msgid "Auto Updating Trakt Library"
+msgstr "" 

@@ -24,6 +24,10 @@
         <setting id="tv.widget" type="enum" label="32325" lvalues="32302|32326" default="1" visible="eq(-12,)" />
         <setting id="prgr.sortorder" type="enum" label="32584" lvalues="32585|32586" default="1" visible="!eq(-13,)" />
         <setting id="lists.widget" type="enum" label="32329" lvalues="32302|32301" default="1" />
+		<setting type="lsep" label="Trakt Bibliothek - Automatische Synchronisierung" />
++       <setting id="autoTraktOnStart" type="bool" label="Synchronisierung bei Kodi Start" default="False" />
++       <setting id="schedTraktTime" type="slider" label="Geplante Updates jede - Stunde/n" default="0" range="0,24" option="int" />
++       <setting type="lsep" label="0 Geplantes Update deaktiviert" />
     </category>
     <category label="32330">
         <setting id="hosts.mode" type="enum" label="32331" lvalues="32332|32333|32334" default="1" />
@@ -84,7 +88,7 @@
         <setting id="fanart.tv.user" type="text" label="32309" default="" />
         <setting type="sep" />
         <setting type="lsep" label="TMDb" />
-        <setting id="tm.user" type="text" option="hidden" label="32309" default="926382ad3235fda5e1f00f132e278af8" />
+        <setting id="tm.user" type="text" option="hidden" label="32309" default="6c992347c18547e5fc8f8d0762902b1c" />
         <setting type="sep" />
         <setting type="lsep" label="Trakt" />
         <setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.lastship/?action=authTrakt)" />
