@@ -1,5 +1,6 @@
 [B]2.0.3~nigtly6[/B]
 - lastship.py
+- strings.po
 
 [B]2.0.3~nigtly5[/B]
 - Add Trakt Collections AutoSync
