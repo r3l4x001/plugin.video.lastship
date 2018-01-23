@@ -930,7 +930,7 @@ msgstr "Neue Suche"
 
 msgctxt "#32604"
 msgid "[B]LASTSHIP[/B] : Clear search history..."
-msgstr "Lösche Such Historie"
+msgstr "[B]LASTSHIP[/B] : Suchverlauf löschen"
 
 msgctxt "#32605"
 msgid "Click to clear search history"
@@ -978,8 +978,8 @@ msgstr "Trakt Bibliothek automatisch aktualisieren"
 
 msgctxt "#32706"
 msgid "[B]LASTSHIP[/B] : Clear All Cache..."
-msgstr "Lösche alle Speicher"
+msgstr "[B]LASTSHIP[/B] : Lösche alle Speicher"
 
 msgctxt "#32707"
 msgid "[B]LASTSHIP[/B] : Clear Meta Cache..."
-msgstr "Metadaten Speicher löschen"
+msgstr "[B]LASTSHIP[/B] : Metadaten Speicher löschen"
