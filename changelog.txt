@@ -1,3 +1,6 @@
+[B]2.0.3~nigtly6[/B]
+- lastship.py
+
 [B]2.0.3~nigtly5[/B]
 - Add Trakt Collections AutoSync
 	- lastship
