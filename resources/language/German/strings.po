@@ -975,3 +975,11 @@ msgstr "LOKALE DATEIEN (BIBLIOTHEK)"
 msgctxt "#32705"
 msgid "Auto Updating Trakt Library"
 msgstr "Trakt Bibliothek automatisch aktualisieren" 
+
+msgctxt "#32706"
+msgid "[B]LASTSHIP[/B] : Clear All Cache..."
+msgstr "Lösche alle Speicher"
+
+msgctxt "#32707"
+msgid "[B]LASTSHIP[/B] : Clear Meta Cache..."
+msgstr "Metadaten Speicher löschen"
