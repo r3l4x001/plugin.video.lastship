@@ -970,3 +970,11 @@ msgstr ""
 msgctxt "#32705"
 msgid "Auto Updating Trakt Library"
 msgstr "" 
+
+msgctxt "#32706"
+msgid "[B]LASTSHIP[/B] : Clear All Cache..."
+msgstr ""
+
+msgctxt "#32707"
+msgid "[B]LASTSHIP[/B] : Clear Meta Cache..."
+msgstr ""
