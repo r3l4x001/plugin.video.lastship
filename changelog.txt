@@ -1,3 +1,8 @@
+[B]2.0.3~nigtly7[/B]
+ - lastship.py: 
+	- Zeile 146 in clear cache meta umbenannt
+	- Zeile 142 in clear cache all umbenannt
+
 [B]2.0.3~nigtly6[/B]
 - Gesamten Speicher löschen und Metaspeicher löschen hinzugefügt
 	- lastship.py
