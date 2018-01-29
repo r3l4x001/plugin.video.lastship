@@ -1,3 +1,7 @@
+[B]2.0.3~nigtly8[/B]
+- tata wieder hinzugefügt (nur Filme)
+- video4k aus den settings entfernt
+
 [B]2.0.3~nigtly7[/B]
  - lastship.py: 
 	- Zeile 146 in clear cache meta umbenannt
