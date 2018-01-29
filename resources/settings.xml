@@ -77,7 +77,8 @@
 		<setting id="provider.serienstream" type="bool" label="SERIENSTREAM.TO" default="false" />
 	    	<setting id="provider.seriesever" type="bool" label="SERIESEVER.NET" default="true" />
 		<setting id="provider.streamit" type="bool" label="STREAMIT.WS" default="true" />
-		<setting id="provider.view4u" type="bool" label="VIEW4U.CO" default="true" />
+		<setting id="provider.tata" type="bool" label="TATA.TO" default="true" />
+	    	<setting id="provider.view4u" type="bool" label="VIEW4U.CO" default="true" />
 		<setting type="sep" />		
 	</category>
     <category label="32346">
