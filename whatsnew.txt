@@ -8,12 +8,23 @@ Unser Chatroom: https://gitter.im/Lastship_Chat/Lobby
 Für die Seiten Serienstream, Seriesever und Alluc ist ein Benutzerkonto auf der jeweiligen Betreiberseite erforderlich (kann auch Wegwerf E-Mailadresse sein)
 
 [B][COLOR blue]Aktuelles[/COLOR][/B]
-Probleme mit HDFilme, HDStreams und Foxx
-Für erfahrene User: Es gibt eine neu ~nightly Test Version (script.module.lastship und plugin.video.lastship
+Die neue Lastship Version bietet jetzt die Möglichkeit, gesehen Filme/Serien automatisch mit Trakt zu synchronisieren
+Ebenso ist jetzt ein Suche mit Umlauten möglich
+Problem mit Foxx
+
 
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR]
 
 [B][COLOR lime]Changelog plugin.video.lastship[/COLOR][/B]
+
+[B]2.0.3[/B]
+
+- Update Einstellungen (Settings)
+- Trakt Bibliothek automatisch Synchronisieren
+- Gesamten Speicher löschen und Metaspeicher löschen hinzugefügt
+- Update lastship.py
+- tata wieder hinzugefügt (nur Filme)
+- video4k aus den settings entfernt
 
 [B]2.0.2.1[/B]
 - Bugfix whatsnew
@@ -38,6 +49,20 @@ Für erfahrene User: Es gibt eine neu ~nightly Test Version (script.module.lasts
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR] 
   
 [B][COLOR lime]Changelog script.module.lastship[/COLOR][/B]
+
+[B]1.0.4[/B]
+
+- Trakt Bibliothek automatisch Synchronisieren
+- Fix Umlaute Suche	
+- Gesamten Speicher löschen und Metaspeicher löschen hinzugefügt
+- Update jsunpack.py
+- movies.py
+- tvshows.py
+- libtools optimiert (Fehler Behebung)
+- Update cache.py und navigator.py
+- tata wieder hinzugefügt (nur Filme)
+- Update hdfilme
+- Update hdstreams
 
 [B]1.0.3.1[/B]
 - Bugfix whatsnew

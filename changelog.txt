@@ -1,24 +1,11 @@
-[B]2.0.3~nigtly8[/B]
+[B]2.0.3[/B]
+
+- Update Einstellungen (Settings)
+- Trakt Bibliothek automatisch Synchronisieren
+- Gesamten Speicher löschen und Metaspeicher löschen hinzugefügt
+- Update lastship.py
 - tata wieder hinzugefügt (nur Filme)
 - video4k aus den settings entfernt
-
-[B]2.0.3~nigtly7[/B]
- - lastship.py: 
-	- Zeile 146 in clear cache meta umbenannt
-	- Zeile 142 in clear cache all umbenannt
-
-[B]2.0.3~nigtly6[/B]
-- Gesamten Speicher löschen und Metaspeicher löschen hinzugefügt
-	- lastship.py
-	- strings.po
-
-[B]2.0.3~nigtly5[/B]
-- Add Trakt Collections AutoSync
-	- lastship
-	- service
-	- settings
-	- string.po
-- Update Settings (Trakt Sync Begriffe in deutsch umbenannt)
 
 [B]2.0.2.1[/B]
 -Bugfix whatsnew
