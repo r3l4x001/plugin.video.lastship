@@ -1,6 +1,7 @@
-[B]2.0.4~nightly1[/B]
+[B]2.0.4~nightly2[/B]
 - cinentaor entfernt
 - kinow per default deaktiviert
+- lastship.py Code Optimierung (Import Funktion)
 
 [B]2.0.3[/B]
 - Update Einstellungen (Settings)
