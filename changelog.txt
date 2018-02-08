@@ -1,5 +1,8 @@
-[B]2.0.3[/B]
+[B]2.0.4~nightly1[/B]
+- cinentaor entfernt
+- kinow per default deaktiviert
 
+[B]2.0.3[/B]
 - Update Einstellungen (Settings)
 - Trakt Bibliothek automatisch Synchronisieren
 - Gesamten Speicher löschen und Metaspeicher löschen hinzugefügt
