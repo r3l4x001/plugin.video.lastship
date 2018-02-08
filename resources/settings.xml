@@ -54,7 +54,6 @@
 		<setting id="provider.animeloads" type="bool" label="ANIMELOADS.ORG" default="true" />
 		<setting id="provider.bs" type="bool" label="BS.TO" default="true" />
 		<setting id="provider.cine" type="bool" label="CINE.TO" default="true" />
-		<setting id="provider.cinenator" type="bool" label="CINENATOR.COM" default="true" />
 		<setting id="provider.ddl" type="bool" label="DDL.ME" default="true" />
 		<setting id="provider.filmpalast" type="bool" label="FILMPALAST.TO" default="true" />
 		<setting id="provider.horrorkino" type="bool" label="FLIMMERSTUBE.COM" default="true" />
@@ -64,7 +63,7 @@
 		<setting id="provider.iload" type="bool" label="ILOAD.TO" default="true" />
 		<setting id="provider.kinodogs" type="bool" label="KINODOGS.TO" default="true" />
 		<setting id="provider.kinoking" type="bool" label="KINOKING.TO" default="true" />
-		<setting id="provider.kinow" type="bool" label="KINOW.TO" default="true" />
+		<setting id="provider.kinow" type="bool" label="KINOW.TO" default="false" />
 		<setting id="provider.kinox" type="bool" label="KINOX.TO" default="true" />
 		<setting id="provider.movie2k-ac" type="bool" label="MOVIE2K.AC" default="true" />
 		<setting id="provider.movie2k-ag" type="bool" label="MOVIE2K.AG" default="true" />
