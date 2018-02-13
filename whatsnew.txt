@@ -17,6 +17,11 @@ Problem mit Foxx
 
 [B][COLOR lime]Changelog plugin.video.lastship[/COLOR][/B]
 
+[B]2.0.4[/B]
+- cinentaor entfernt
+- kinow per default deaktiviert
+- lastship.py Code Optimierung (Import Funktion)
+
 [B]2.0.3[/B]
 
 - Update Einstellungen (Settings)
@@ -49,6 +54,10 @@ Problem mit Foxx
 [COLOR orange]-------------------------------------------------------------------------------------------------------[/COLOR] 
   
 [B][COLOR lime]Changelog script.module.lastship[/COLOR][/B]
+
+[B]1.0.5[/B]
+- cinenator entfent
+- Update hdfilme
 
 [B]1.0.4[/B]
 
