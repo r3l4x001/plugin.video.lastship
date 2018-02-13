@@ -10,6 +10,7 @@ Für die Seiten Serienstream, Seriesever und Alluc ist ein Benutzerkonto auf der
 [B][COLOR blue]Aktuelles[/COLOR][/B]
 Die neue Lastship Version bietet jetzt die Möglichkeit, gesehen Filme/Serien automatisch mit Trakt zu synchronisieren
 Ebenso ist jetzt ein Suche mit Umlauten möglich
+kinow in den Einstellungen per Standard deaktiviert (captcha), bei manchen Usern gehts jedoch
 Problem mit Foxx
 
 
