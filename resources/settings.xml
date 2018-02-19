@@ -24,6 +24,7 @@
         <setting id="tv.widget" type="enum" label="32325" lvalues="32302|32326" default="1" visible="eq(-12,)" />
         <setting id="prgr.sortorder" type="enum" label="32584" lvalues="32585|32586" default="1" visible="!eq(-13,)" />
         <setting id="lists.widget" type="enum" label="32329" lvalues="32302|32301" default="1" />
+        <setting id="search.quick" type="enum" label="32708" lvalues="32302|32301" default="0" />
 	<setting type="lsep" label="Trakt Bibliothek - Automatische Synchronisierung" />
         <setting id="autoTraktOnStart" type="bool" label="Synchronisierung bei Kodi Start" default="False" />
         <setting id="schedTraktTime" type="slider" label="Geplante Updates jede - Stunde/n" default="0" range="0,24" option="int" />
@@ -78,7 +79,7 @@
 		<setting id="provider.streamit" type="bool" label="STREAMIT.WS" default="true" />
 		<setting id="provider.tata" type="bool" label="TATA.TO" default="true" />
 	    	<setting id="provider.view4u" type="bool" label="VIEW4U.CO" default="true" />
-		<setting type="sep" />		
+		<setting type="sep" />
 	</category>
     <category label="32346">
         <setting type="lsep" label="FANART.TV" />
