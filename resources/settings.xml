@@ -87,7 +87,7 @@
         <setting id="fanart.tv.user" type="text" label="32309" default="" />
         <setting type="sep" />
         <setting type="lsep" label="TMDb" />
-        <setting id="tm.user" type="text" option="hidden" label="32309" default="6c992347c18547e5fc8f8d0762902b1c" />
+        <setting id="tm.user" type="text" option="hidden" label="32309" default="9476da941417e8445698632cafe72bed" />
         <setting type="sep" />
         <setting type="lsep" label="Trakt" />
         <setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.lastship/?action=authTrakt)" />
