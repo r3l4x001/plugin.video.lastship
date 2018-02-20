@@ -1,3 +1,6 @@
+[B]2.0.5~nightly1[/B]
+- Schnellsuche Eingebaut
+
 [B]2.0.4.1[/B]
 - Neuer TMDB Key
 
