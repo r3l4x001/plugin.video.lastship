@@ -8,6 +8,9 @@ Unser Chatroom: https://gitter.im/Lastship_Chat/Lobby
 Für die Seiten Serienstream, Seriesever und Alluc ist ein Benutzerkonto auf der jeweiligen Betreiberseite erforderlich (kann auch Wegwerf E-Mailadresse sein)
 
 [B][COLOR blue]Aktuelles[/COLOR][/B]
+20.02.2018
+In der aktuellen ~nightly ist jetzt eine Schnell-Suche eingebaut und kann in den Einstellungen aktiviert werden
+Probleme mit HD-Streams
 15.02.2018
 Die neue Lastship Version bietet jetzt die Möglichkeit, gesehen Filme/Serien automatisch mit Trakt zu synchronisieren
 Ebenso ist jetzt ein Suche mit Umlauten möglich
