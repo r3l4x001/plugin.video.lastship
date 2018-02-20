@@ -123,7 +123,28 @@ elif action == 'toolNavigator':
     navigator.navigator().tools()
 
 elif action == 'searchNavigator':
-    navigator.navigator().search()
+    if not control.setting('search.quick') == '0':
+        searchSelect = xbmcgui.Dialog().select(control.lang(32010).encode('utf-8'),
+                                               [
+                                                   control.lang(32001).encode('utf-8'),
+                                                   control.lang(32002).encode('utf-8'),
+                                                   control.lang(32029).encode('utf-8'),
+                                                   control.lang(32030).encode('utf-8')
+                                               ])
+        if searchSelect == 0:
+            movies.movies().search()
+            movies.movies().search_new()
+        elif searchSelect == 1:
+            tvshows.tvshows().search()
+            tvshows.tvshows().search_new()
+        elif searchSelect == 2:
+            movies.movies().person()
+        elif searchSelect == 3:
+            tvshows.tvshows().person()
+        else:
+            pass
+    else:
+        navigator.navigator().search()
 
 elif action == 'viewsNavigator':
     navigator.navigator().views()
