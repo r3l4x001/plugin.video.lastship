@@ -1,5 +1,5 @@
-[B]2.0.5~nightly1[/B]
-- Schnellsuche Eingebaut
+[B]2.0.5~dev1[/B]
+- add preemptive in den settings
 
 [B]2.0.4.1[/B]
 - Neuer TMDB Key
