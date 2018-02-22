@@ -8,12 +8,12 @@ Unser Chatroom: https://gitter.im/Lastship_Chat/Lobby
 Für die Seiten Serienstream, Seriesever und Alluc ist ein Benutzerkonto auf der jeweiligen Betreiberseite erforderlich (kann auch Wegwerf E-Mailadresse sein)
 
 [B][COLOR blue]Aktuelles[/COLOR][/B]
+22.02.2018
+In der aktuellen ~nightly ist jetzt die Funktion "Nur Premiumquellen anzeigen" in den Einstellungen verfügbar
 20.02.2018
 In der aktuellen ~nightly ist jetzt eine Schnell-Suche eingebaut und kann in den Einstellungen aktiviert werden
-Probleme mit HD-Streams
+Probleme mit HD-Streams, Streamdream (captcha)
 15.02.2018
-Die neue Lastship Version bietet jetzt die Möglichkeit, gesehen Filme/Serien automatisch mit Trakt zu synchronisieren
-Ebenso ist jetzt ein Suche mit Umlauten möglich
 kinow in den Einstellungen per Standard deaktiviert (captcha), bei manchen Usern gehts jedoch
 Problem mit Foxx
 
