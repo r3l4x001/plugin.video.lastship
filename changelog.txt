@@ -1,4 +1,5 @@
-[B]2.0.5~nightly1[/B]
+[B]2.0.5~nightly2[/B]
+- Add Funktion nur Premiumquellen (Bezahlquellen) anzeigen
 - Schnellsuche Eingebaut
 
 [B]2.0.4.1[/B]
