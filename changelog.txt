@@ -1,3 +1,6 @@
+[B]2.0.5~dev2[/B]
+-  add Automatisch Fortsetzen und Trakt Lesezeichen
+
 [B]2.0.5~dev1[/B]
 - add preemptive in den settings
 
