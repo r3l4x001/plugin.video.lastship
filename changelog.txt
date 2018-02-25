@@ -1,6 +1,7 @@
 [B]2.0.5~dev3[/B]
-- Trakt Lesezeichen in Trakt Fortsetzungspunkt umbenannt und auf visible "false" gesetzt
-
+- Trakt Lesezeichen in Trakt Fortsetzungspunkt umbenannt und auf visible "false" gesetzt, da die Funktion Fortsetzungspunkt, vom     
+  Trakt Addon Scrobbler durchgeführt wird
+  
 [B]2.0.5~dev2[/B]
 -  add Automatisch Fortsetzen und Trakt Lesezeichen
 
