@@ -1,3 +1,6 @@
+[B]2.0.5~dev3[/B]
+- Trakt Lesezeichen in Trakt Fortsetzungspunkt umbenannt und auf visible "false" gesetzt
+
 [B]2.0.5~dev2[/B]
 -  add Automatisch Fortsetzen und Trakt Lesezeichen
 
